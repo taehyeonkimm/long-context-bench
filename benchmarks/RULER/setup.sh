@@ -7,4 +7,4 @@ pip install flash-attn==2.6.0.post1 --no-build-isolation
 pip install git+https://github.com/HazyResearch/flash-attention.git#subdirectory=csrc/rotary
 pip install causal-conv1d==1.4.0
 pip install mamba-ssm==2.2.2
-
+python3 -c "import nltk; nltk.download('punkt')"

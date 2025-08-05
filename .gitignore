@@ -1,1 +1,9 @@
 venv/
+GEAR_and_OURS/
+
+.ipynb_checkpoints/
+__pycache__/
+*.jsonl
+.vscode/
+*.out
+
